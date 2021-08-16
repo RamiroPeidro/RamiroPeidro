@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RamiroPeidro
 - 👀 I’m a 20 years old computer science student.
-- 🌱 I’m currently learning Solidity, blockchain development.
-- 💞️ I have knowledge in HTML, CSS, JS, PYTHON, C. 
+- 💞️ I have knowledge in PYTHON, C, JS, SOLIDITY, CSS, SASS, HTML. 
 
 <!---
 RamiroPeidro/RamiroPeidro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

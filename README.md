@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamiroPeidro
-- 👀 I’m a 20 years old computer science student.
+- 👀 I’m a 20 years old Software Engineering student.
 - 💞️ I have knowledge in PYTHON, C, JS, SOLIDITY, CSS, SASS, HTML. 
 
 <!---

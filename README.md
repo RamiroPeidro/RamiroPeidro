@@ -1,10 +1,10 @@
 ### <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Estefan%C3%ADa!+"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Ramiro%C3%ADa!+"/>
 </h1>
 <h3 align="center"> A Full Stack Web Developer from Argentina.</h3>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tefsantana&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiroPeidro&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tefsantana&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 

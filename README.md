@@ -1,4 +1,4 @@
-### <h1 align="center">
+<h1 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Ramiro!+"/>
 </h1>
 <h3 align="center"> A Software Engineer student from Argentina.</h3>

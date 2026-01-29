@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Ramiro!+"/>
 </h1>
-<h3 align="center"> A Software Engineer from Argentina. Currently building at MeLi</h3>
+<h3 align="center"> Argentinian swe</h3>
 <br/>
 
 <a href="https://app.daily.dev/ramitacodea"><img src="https://api.daily.dev/devcards/v2/vpytDK2qx96ZU0n2Va02d.png?r=v5s&type=default" width="356" alt="Ramiro Peidro's Dev Card"/></a>
